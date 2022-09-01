@@ -1,0 +1,48 @@
+{
+    "name": "feynman71000",
+    "population": 2000,
+    "gen": 300,
+    "srnn_mean_fitness": "15.778236903439531",
+    "sr_mean_fitness": "1.9511426233219151",
+    "srnn_fitness": [
+        15.778236903439531
+    ],
+    "srnn_min_fitness": 15.778236903439531,
+    "srnn_max_fitness": 15.778236903439531,
+    "sr_fitness": [
+        1.9511426233219151
+    ],
+    "sr_min_fitness": 1.9511426233219151,
+    "sr_max_fitness": 1.9511426233219151,
+    "best_individual": {
+        "individual[0]": {
+            "hidden[0]": {
+                "fitness": 0.015690100953141686,
+                "express": "['X0 - 0.162 + 0.669/X0', 'sqrt(Abs(X1)) + sqrt(Abs(X1**2))', 'log(sigmoid(sqrt(Abs(X2)) + 3.90625/sqrt(X2)))', 'log(sigmoid(sqrt(Abs(X3))))', '-log(X4) + sigmoid(X4)', 'log(sigmoid(sqrt(Abs(X5))))']",
+                "weight": "[array([[0.        , 0.        , 0.59085878, 0.        , 0.29331891,\n        0.02145967]]), array([[0.03734158, 0.11516064, 0.        , 0.56106332, 0.22256363,\n        0.46999079]]), array([[0.03466904, 0.01560355, 0.29118483, 0.41500122, 0.        ,\n        2.3244062 ]]), array([[0.        , 0.03346271, 0.        , 0.        , 0.        ,\n        1.29591151]]), array([[0.11806893, 0.02033391, 0.        , 1.74548884, 0.        ,\n        0.32466178]])]",
+                "bias": "[array([0.25182517]), array([0.3284299]), array([1.10639044]), array([0.23563592]), array([0.09842482])]",
+                "symbol_set": "[X5]"
+            },
+            "hidden[1]": {
+                "fitness": 0.005718991604855441,
+                "express": "['-0.977*X0', '-0.466*X1 + Abs(X1)', 'X2**2 + sigmoid(X2)', 'X3**2 + 0.71808857518335', 'X4**2 + X4']",
+                "weight": "[array([[0.86932568, 0.20157478, 0.22896234, 0.21093601, 0.332037  ]]), array([[0.71083775, 0.3659769 , 0.24518893, 0.03579253, 0.22044022]]), array([[0.83739745, 0.41783494, 0.22319221, 0.15253232, 0.32945143]]), array([[0.72995198, 0.45834803, 0.21182181, 0.12262473, 0.30039678]]), array([[0.67603493, 0.46740377, 0.18539421, 0.03334747, 0.24296713]]), array([[0.74225488, 0.4033608 , 0.16798764, 0.2014993 , 0.32078849]]), array([[0.7935393 , 0.26585222, 0.1831492 , 0.23558631, 0.34493624]]), array([[0.83735327, 0.20153072, 0.19427318, 0.2292651 , 0.34040442]]), array([[0.56506379, 0.5000596 , 0.18006263, 0.07711065, 0.16207944]]), array([[0.81764037, 0.46103405, 0.23751676, 0.050022  , 0.34202036]])]",
+                "bias": "[array([-0.12106873]), array([0.16732546]), array([-0.11125207]), array([-0.03879436]), array([0.17957434]), array([-0.1129234]), array([-0.16065114]), array([-0.1237411]), array([0.1435624]), array([0.02059434])]",
+                "symbol_set": "[X4]"
+            },
+            "hidden[2]": {
+                "fitness": 15.778236903439531,
+                "express": "['sqrt(Abs(log(0.24/X0)))', 'Abs(X1)', 'Abs(X2)', 'Abs(X3)', 'X4', 'X5', 'Abs(X6)', 'X7 + 2*Abs(X7)', 'X8 + 2*log(X8)', 'X9']",
+                "weight": "[array([[2.30811422, 0.35252163, 2.02856005, 0.79861685, 2.05218417,\n        2.29920235, 3.16770783, 8.48663909, 4.98287797, 0.52853757]])]",
+                "bias": "[array([16.43976033])]",
+                "symbol_set": "[X9]"
+            }
+        }
+    },
+    "best_direct_individual": {
+        "individual[0]": {
+            "fitness": 1.9511426233219151,
+            "express": "(X0*X5*sigmoid(X1*X4)*sigmoid(X3*Abs(X2))**3*sigmoid(X5/sigmoid(X1*X2*X4*X5**2*Abs(X2*X5/X3)/X3**4))*sigmoid(X3/(sigmoid(X3)*sigmoid(X0*X5/((X0 - X5)*Abs(X2)))))*sigmoid(X0**6*X1*X5**8*sigmoid(X3)/(X3*Abs(X2)**6))*sigmoid(X0**6*X5**9*(X0 - X2*X5/X3)*sigmoid(X0*X5)/(X3**2*Abs(X2)**6))*sigmoid(X0*X2*X3*X5**2/(X1**2*X4*sigmoid(X3)**2))*sigmoid(X0**2*X1*X4*X5**3/(X2*X3*Abs(X2)**2))*sigmoid(X0**13*X1*X5**14*(X0 - X5)*sigmoid(X0**2*X5**2/Abs(X2)**2 - X5)*sigmoid(sigmoid(X3))/(X3**4*Abs(X2)**9))*sigmoid(X0**5*X5**7*(X0 - X5)*(X0**2*X5**2/Abs(X2)**2 - X5)/(X3**2*Abs(X2)**3*Abs(X5*Abs(X2)*sigmoid(X2*X5**3*Abs(X2)/X3**3))*Abs(X5/(sigmoid(X0*X1*X4*X5/(X3**2*Abs(X2)))*sigmoid(sigmoid(X3*Abs(X2)))))*sigmoid(X0*X5**3*(X0 - X5)/X3)))/(sigmoid(X0**2*X3*sigmoid(X3)**2*sigmoid(sigmoid(X5/(X1*X4*sigmoid(X3)*sigmoid(X5*(X0 - X5)/X3**3))))/Abs(X2))*sigmoid(X0**4*X1*X4*X5**3*(X0 - X5)*Abs(X2)**2/X3**4)) + X1*X4 + X3*Abs(X2) + sqrt(X0*X3*(X0 - X5)/(X5*Abs(X2)**2*sigmoid(X5**8*Abs(X2)**2/(X0**3*X3**3*(-X0*X5*sigmoid(X3/sigmoid(X3)**2)*sigmoid(X0*X1*X4*X5**3/Abs(X2)) + X0)*(-X0*X5*sigmoid(X3/sigmoid(X3)**2)*sigmoid(X0**2*X5/Abs(X2) - X5) + X0)*sigmoid(X3)**2*sigmoid(X0*X5/Abs(X2)**2)*sigmoid(X5*(X0 - X5)/X3**3)))*sigmoid(X5**8*Abs(X2)**2/(X0**3*X3**3*(-X0*X5*sigmoid(X3/sigmoid(X3)**2)*sigmoid(X1*X3*X4*X5**3/(X0**2*(-X0*X5*sigmoid(X3/sigmoid(X3)**2)*sigmoid(X0*X1*X4*X5**3/Abs(X2)) + X0)*Abs(X2))) + X0)*(-X0*X5*sigmoid(X3/sigmoid(X3)**2)*sigmoid(X0**2*X5**2/Abs(X2)**2 - X5) + X0)*sigmoid(X3)**2*sigmoid(X5*(X0 - X5)/X3**4)*sigmoid(X5*sigmoid(X3)**2*sigmoid(sigmoid(X0*X5))))))) + Abs(X2)/X3, [X2, X3, X0, X5, X1, X4])"
+        }
+    }
+}

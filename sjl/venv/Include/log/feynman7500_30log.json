@@ -1,0 +1,48 @@
+{
+    "name": "feynman7500",
+    "population": 2000,
+    "gen": 300,
+    "srnn_mean_fitness": "9.033844767936714",
+    "sr_mean_fitness": "3.3127813502272274",
+    "srnn_fitness": [
+        9.033844767936714
+    ],
+    "srnn_min_fitness": 9.033844767936714,
+    "srnn_max_fitness": 9.033844767936714,
+    "sr_fitness": [
+        3.3127813502272274
+    ],
+    "sr_min_fitness": 3.3127813502272274,
+    "sr_max_fitness": 3.3127813502272274,
+    "best_individual": {
+        "individual[0]": {
+            "hidden[0]": {
+                "fitness": 0.017645033364778424,
+                "express": "['log(-sqrt(X0) + X0 + 0.073)', 'log(X1 + 0.171)', 'log(-sqrt(X2) + X2 + 0.073)', 'log(-log(X3))', 'log(-log(X4))', 'log(X5 - sigmoid(X5))']",
+                "weight": "[array([[0.        , 0.        , 0.        , 0.        , 0.        ,\n        0.01185174]]), array([[0.04273381, 0.44037242, 0.05056637, 0.03717469, 0.        ,\n        0.05479119]]), array([[0.05090484, 0.0373921 , 0.        , 0.03755231, 0.09601395,\n        0.2428393 ]]), array([[0.        , 0.11962987, 0.08250101, 0.        , 0.05767633,\n        0.12099513]]), array([[0.12179935, 0.0703052 , 0.03718676, 0.10903581, 0.04196157,\n        0.02149268]])]",
+                "bias": "[array([0.16930366]), array([0.27073085]), array([0.66150529]), array([-0.0047426]), array([0.13431778])]",
+                "symbol_set": "[X5]"
+            },
+            "hidden[1]": {
+                "fitness": 0.0041220232051859046,
+                "express": "['0.182*X0', '0.814*X1', 'X2', '2*X3**2', 'X4*(X4 + 0.104)']",
+                "weight": "[array([[0.        , 0.06300739, 0.21120925, 0.71014785, 1.13918851]]), array([[0.        , 0.22957218, 0.29885564, 0.32434161, 0.74158278]]), array([[0.        , 0.22404315, 0.21129947, 0.60188821, 1.10360146]]), array([[0.        , 0.2742855 , 0.20643863, 0.47649971, 0.98093529]]), array([[0.        , 0.29717648, 0.19201772, 0.36617055, 0.80761882]]), array([[0.        , 0.20867188, 0.10856055, 0.65513255, 1.07900303]]), array([[0.        , 0.10291864, 0.12972819, 0.72713984, 1.16318497]]), array([[0.        , 0.05667309, 0.15036289, 0.7504328 , 1.16672272]]), array([[0.        , 0.30675112, 0.14621361, 0.40815853, 0.59326072]]), array([[0.        , 0.2912373 , 0.28291803, 0.38858019, 1.08186862]])]",
+                "bias": "[array([-0.04188332]), array([0.10370252]), array([-0.07500658]), array([-0.0140236]), array([0.12485934]), array([-0.01237046]), array([-0.04084444]), array([-0.02120228]), array([0.17494026]), array([-0.05356887])]",
+                "symbol_set": "[X4]"
+            },
+            "hidden[2]": {
+                "fitness": 9.033844767936714,
+                "express": "['0.243/Abs(X0)', '-11.6959064327485*X1**2', '-0.664/X2**2', 'X3', 'sigmoid(X4)', 'sigmoid(X5)/X5**3', '5.64971751412429*X6**3', '7*X7', 'Abs(X8)', '3*log(X9)']",
+                "weight": "[array([[ 5.40364341,  4.73934013,  0.12290116,  1.05101385,  0.18022399,\n         0.02035368,  3.39008989, 11.16444395,  0.23043559,  6.90842076]])]",
+                "bias": "[array([33.17182009])]",
+                "symbol_set": "[X9]"
+            }
+        }
+    },
+    "best_direct_individual": {
+        "individual[0]": {
+            "fitness": 3.3127813502272274,
+            "express": "(sqrt(X0) + X0*X4 + X1*X5 + X2*X3 - log(X0*X4 - X0 - X1*X5 - 0.655*X3 + X4 + log(-sqrt(X0) + X0*X4 - X1*X5 - 1.31*X3 + X4 + log(sqrt(X0) + X0*X4 - X2*X3 - 0.655*X3 + X4 + sigmoid(log(X0)) - sigmoid(log(X1*X5)) - sigmoid(log(X0*(-X0**2*X4 + X0*X4 + X1*X5 + X4)/log(X1*X5)))) + sigmoid(log(X0)) - sigmoid(log(X1)) - sigmoid(log(X0**2*sqrt(X4)))) + sigmoid(log(X0)) - sigmoid(log(X0*(-sqrt(X0) + X0*X4 - X1*X5 - 1.31*X3 + X4 + log(sqrt(X0) + X0*X4 - X2*X3 - 0.655*X3 + X4 + sigmoid(sqrt(X0)) - sigmoid(X0*X4) - sigmoid(log(sigmoid(log(log(X4/X0)))))) - sigmoid(X0 + X2) - sigmoid(X2*X3 + sigmoid(X2*X3)) + sigmoid(log(X0)) + sigmoid(log(X2)) - sigmoid(log((X0*X4 - 0.655*X3)/sqrt(X4))) - sigmoid(log(X2 + X4)))/sqrt(X4)))) + sigmoid(-0.655*X3 + Abs((sqrt(X3) - 0.666/X4)/sqrt(Abs(X3)) - log(Abs(X0*X3)))) + sigmoid(X0*X4 - 0.655*X3) + 3*sigmoid(X1*X5 - 0.655*X3) + sigmoid(-X0 - 0.655*X3 + X4 + log(-X1*X5 + X1 + 0.655*X3 + X4 + sigmoid(log(X0))) - sigmoid(X0 + X3*(X0*X4 + sigmoid(sqrt(X0) + X2*X3))) + sigmoid(log(X0))) + sigmoid(-X0 - 0.655*X3 + X4 + log(-2*X1*X5 - X2*X3 + 1.655*X3 + X4 + log(X1*X5) - sigmoid(log(X1)) + sigmoid(log(X3))) - sigmoid(X2*X3 + log(X0*(X0*X4 + X1 + X4)/log(X1*X5))) + X5/X3) + sigmoid(-X0 - 0.655*X3 + X4 + log(-X1*X5 - X2 + X3 + X4 + log(log(X3)) - sigmoid(log(X1)) + sigmoid(log(X3))) - sigmoid(sqrt(X0) + X2*X3) + sigmoid(log(X0))) + 2*sigmoid(-X0 - 0.655*X3 + X4 + log(-sqrt(X0) - X1*X5 - X2*X3 + X3 + X4 + log(X1*X5) - sigmoid(log(X1)) + sigmoid(log(X3))) - sigmoid(sqrt(X0) + X2*X3) + sigmoid(log(X0))) + sigmoid(-X0 - 0.655*X3 + X4 + log(-sqrt(X0) - X1*X5 - X2*X3 + 1.655*X3 + X4 + log(X1*X5) - sigmoid(2*sqrt(X0) + X0*X4 + X1*X5) + sigmoid(log(X3))) - sigmoid(sqrt(X0) + X2*X3) + sigmoid(log(X0))) + sigmoid(-X0 - 0.655*X3 + X4 + log(-2*sqrt(X0) + X0*X4 - X0 - 2*X1*X5 + X1 - 2*X2*X3 + X4 + log(X1*X5) + log(-X1*X5 + X4 + log(X2) + sigmoid(log(X0)) - sigmoid(log(X1*X5)) - sigmoid(log(X0*(X1*X5 + X4)/log(X0*X4 + sigmoid(log((X0*X4 - 0.655*X3)/sqrt(X4)))))) - 0.655) + sigmoid(log(X0)) - sigmoid(log(X1)) + sigmoid(log(X3))) - sigmoid(X0 + X2*X3) + sigmoid(log(X0))) + sigmoid(-X0 - 0.655*X3 + X4 + log(-X1*X5 + 0.655*X3 + X4 + log(X1*X5)) + sigmoid(log(X0)) - sigmoid(log(X1*X5)) - sigmoid(log(X0*(-X0**2*X4 + X0*X4 + X1*X5 + X4)/log(X1*X5)))) + sigmoid(-X0 + X1**2 - X1*X5 - 0.655*X3 + X4 + log(-sqrt(X0) - X0*X4 + 0.655*X3 + X4 + log(X1*X5)) + sigmoid(log(X0)) - sigmoid(log(X1))) + sigmoid(-X0 + X1**2 - X1*X5 - 0.655*X3 + X4 + log(sqrt(X0) - X1*X5 + X4 + log(X1*X5) - sigmoid(X2*X3 + sigmoid(log(X1*X5))) + sigmoid(log(X3)) - sigmoid(log(X1*X5))) - sigmoid(X1*X5 + X2*X3) + sigmoid(log(X0))) + sigmoid(-X0 + X2 - 1.655*X3 + X4 + log(-sqrt(X0) - X0 + X1**2 - 2*X1*X5 - X2*X3 + 2*X4 - log(X1) + log(X1*X5) + log(-sqrt(X0) - X0*X4 + 0.655*X3 + X4 + log(X1*X5)) + sigmoid(log(X0)) - sigmoid(log(X1)) + sigmoid(log(X3))) - sigmoid(sqrt(X0) + X2*X3) + sigmoid(log(X0)) + sigmoid(log(X1))) - sigmoid(log(sqrt(X0) + 0.345*X0*X4 - X2*X3 + log(X1*X5) - sigmoid(log(X1*X5)) - 0.655*sigmoid(log(X0*(X0*X4 - X2*X3 - 0.655*X3 + X4)/log(X1*X5))))) - sigmoid(log(2*sqrt(X0) + X1*X5 - X2*X3 - X2 - log(X1) + sigmoid(log(X0)) - sigmoid(log(X0*(-X0**2*X4 + X0*X4 + X1*X5 + X4)/log(X1*X5))))) - sigmoid(log(2*sqrt(X0) + X1*X5 - X2*X3 - log(X1) - sigmoid(X0*X4 + X2*X3 - 0.655*X3) + sigmoid(log(X0)) - sigmoid(log(X0*(-X0**2*X4 + X0*X4 + X1*X5 + X4)/log(X1*X5))))) - sigmoid(log(2*sqrt(X0) + X1*X5 - X2*X3 - log(X1) - sigmoid(X0*X4 + X1*X5 + X2 - 0.655*X3 + sigmoid(log(X1))) + sigmoid(log(X0)) - sigmoid(log(X0*(-X0**2*X4 + X0*X4 + X1*X5 + X4)/log(X1*X5))))) - sigmoid(log(2*sqrt(X0) + X1*X5 - X2*X4 - log(X1) + sigmoid(log(X0)) - sigmoid(log(X1*X5)) - sigmoid(log(X0*(-X0**2*X4 + X0*X4 + X1*X5 + X4)/log(X0*X4 - 0.655*X3))))) - sigmoid(log(sqrt(X0) + 0.345*X0*X4 - X2*X3 + X4 + log(X1*X5) - sigmoid(X2) - sigmoid(log(X1*X5)) - 0.655*sigmoid(log(X0*(X0*X4 - X2*X3 - 0.655*X3 + X4)/log(X1*X5))))) - sigmoid(log(sqrt(X0) + 0.345*X0*X4 - X2*X3 + X4 + log(X1*X5) - sigmoid(X2) - sigmoid(log(X1*X5)) - 0.655*sigmoid(log(X0*(X0*X4 - X2*X3 - 0.655*X3 + X4)/log(sigmoid(X0*X4 + X2*X3 - 0.655*X3)))))) - sigmoid(log(sqrt(X0) + 0.345*X0*X4 - X2*X3 + X4 - sigmoid(X2) + sigmoid(X2 + X4) - sigmoid(log(X1*X5)) - 0.655*sigmoid(log(X0*(X0*X4 - X2*X3 - 0.655*X3 + X4)/log(X1*X5))))) - sigmoid(log(sqrt(X0) + 0.345*X0*X4 - X2*X3 + X4 - sigmoid(X2) + sigmoid(X2 + X4) - sigmoid(log(X1*X5)) - 0.655*sigmoid(log(X0*(-X0**2*X4 + X0*X4 + X1*X5 + X4)/log(X1*X5))))) - sigmoid(log(sqrt(X0) + X0*X4 + X1*X5 - X2*X3 - log(X1) + sigmoid(log(X0)) - sigmoid(log(X1*X5)) - sigmoid(log(X0*(-X0**2*X4 + X0*X4 + X1*X5 + X4)/log(X1*X5))))) - sigmoid(log(sqrt(X0) + X0*X4 + X1*X5 + X2*X3 - 0.655*X3 + log(X1) - log(X1*X5) - sigmoid(log(X3)))) - sigmoid(log(2*sqrt(X0) - X0*X4 + X1*X5 - X2*X3 - log(X1) + sigmoid(log(X0)) - sigmoid(log(X1*X5)) - sigmoid(log(X2 + X4)))) - sigmoid(log(sqrt(X0) + 0.345*X0*X4 + X1*X5 - 2*X2*X3 + X4 - sigmoid(X2) + sigmoid(log(X0)) - sigmoid(log(X1*X5)) - 0.655*sigmoid(log(-sqrt(X0) - X0*X4 - 2*X1*X5 - X2*X3 + 1.655*X3 + log(X0*X4) + sigmoid(log(X3)))))) - sigmoid(log(sqrt(X0) + 3*X0*X4 - X1*X5 - X2*X3 - 0.655*X3 + X4 + sigmoid(log(X0)) - sigmoid(log(X3)) - sigmoid(log(X1*X5)))) - 2*sigmoid(log(log(X4/X0))) + sigmoid(log(log(X4/X1))) - sigmoid(log(log(sigmoid(log(2*sqrt(X0) + X1*X5 - X2*X3 - log(X1) - sigmoid(X0*X4 + X2*X3 - 0.655*X3) + sigmoid(log(X0)) - sigmoid(log(X0*(-X0**2*X4 + X0*X4 + X1*X5 + X4)/log(X1*X5)))))))), [X4, X0, X1, X2, X3, X5])"
+        }
+    }
+}

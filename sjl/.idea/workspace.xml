@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f07e39b7-8c01-4ab8-ab0c-1d95d82866c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sjl" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1Uh3aMkd2kZLWq3cetnqwaOFtSA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\sjl\venv\Include\HiddenData" />
+      <recent name="D:\project\sjl\venv\Include" />
+      <recent name="D:\project\sjl\venv\Dataset" />
+      <recent name="D:\project\sjl\venv\FCNN" />
+      <recent name="D:\project\sjl\venv\Include\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\sjl\venv\Include\test" />
+      <recent name="D:\project\sjl\venv\Include" />
+      <recent name="D:\project\sjl\venv" />
+      <recent name="D:\project\sjl\venv\GEP" />
+      <recent name="C:\Users\huxilei\Desktop\sjl\venv\Include" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.best_individual">
+    <configuration name="best_individual" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sjl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/best_individual.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="entirety" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sjl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/entirety.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fprinttest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sjl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/test/fprinttest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listsave" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sjl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/test/listsave.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_draw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sjl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/test_draw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.best_individual" />
+        <item itemvalue="Python.entirety" />
+        <item itemvalue="Python.test_draw" />
+        <item itemvalue="Python.listsave" />
+        <item itemvalue="Python.fprinttest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f07e39b7-8c01-4ab8-ab0c-1d95d82866c6" name="Default Changelist" comment="" />
+      <created>1575795061923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575795061923</updated>
+      <workItem from="1575795066833" duration="9533000" />
+      <workItem from="1575873146569" duration="10545000" />
+      <workItem from="1576142962931" duration="15749000" />
+      <workItem from="1576199994161" duration="5950000" />
+      <workItem from="1576731818963" duration="12374000" />
+      <workItem from="1580818549484" duration="5084000" />
+      <workItem from="1580829075454" duration="4492000" />
+      <workItem from="1580872074540" duration="9616000" />
+      <workItem from="1581484936888" duration="14075000" />
+      <workItem from="1583659984282" duration="1431000" />
+      <workItem from="1583824354908" duration="6247000" />
+      <workItem from="1583835428040" duration="15021000" />
+      <workItem from="1583890936858" duration="15076000" />
+      <workItem from="1584499247473" duration="6242000" />
+      <workItem from="1585107724992" duration="6545000" />
+      <workItem from="1585553276623" duration="1371000" />
+      <workItem from="1585618165511" duration="4048000" />
+      <workItem from="1585640270383" duration="3118000" />
+      <workItem from="1586050502732" duration="1458000" />
+      <workItem from="1586053473993" duration="2615000" />
+      <workItem from="1586146315707" duration="1271000" />
+      <workItem from="1586154197681" duration="600000" />
+      <workItem from="1586157013635" duration="591000" />
+      <workItem from="1586161894492" duration="1684000" />
+      <workItem from="1586222006336" duration="2585000" />
+      <workItem from="1586239639355" duration="1529000" />
+      <workItem from="1586858731797" duration="602000" />
+      <workItem from="1586925597181" duration="4746000" />
+      <workItem from="1587089666079" duration="1931000" />
+      <workItem from="1587378395588" duration="23379000" />
+      <workItem from="1587473549921" duration="12778000" />
+      <workItem from="1587519548392" duration="17027000" />
+      <workItem from="1587692451069" duration="5962000" />
+      <workItem from="1588123716359" duration="14177000" />
+      <workItem from="1588728757149" duration="4459000" />
+      <workItem from="1589272838731" duration="8527000" />
+      <workItem from="1590399468452" duration="3953000" />
+      <workItem from="1590490040150" duration="4316000" />
+      <workItem from="1590544877358" duration="2214000" />
+      <workItem from="1590651803570" duration="13107000" />
+      <workItem from="1590724244415" duration="7149000" />
+      <workItem from="1590762774804" duration="600000" />
+      <workItem from="1591151413593" duration="3283000" />
+      <workItem from="1591275021925" duration="976000" />
+      <workItem from="1591341748937" duration="5353000" />
+      <workItem from="1591526292879" duration="1034000" />
+      <workItem from="1593074746362" duration="752000" />
+      <workItem from="1594863644629" duration="1355000" />
+      <workItem from="1594865528113" duration="9334000" />
+      <workItem from="1594980354946" duration="9000000" />
+      <workItem from="1595393111794" duration="8438000" />
+      <workItem from="1596612002532" duration="9860000" />
+      <workItem from="1597201903852" duration="599000" />
+      <workItem from="1597219438979" duration="6323000" />
+      <workItem from="1597815682406" duration="6524000" />
+      <workItem from="1598430605213" duration="2774000" />
+      <workItem from="1602172428911" duration="2509000" />
+      <workItem from="1602175178270" duration="119000" />
+      <workItem from="1602216799068" duration="4740000" />
+      <workItem from="1602753880095" duration="2166000" />
+      <workItem from="1603354969436" duration="83000" />
+      <workItem from="1603366748618" duration="815000" />
+      <workItem from="1603445689349" duration="1582000" />
+      <workItem from="1604228325682" duration="142000" />
+      <workItem from="1605263378396" duration="956000" />
+      <workItem from="1606464686489" duration="167000" />
+      <workItem from="1607051618110" duration="765000" />
+      <workItem from="1607654862580" duration="1012000" />
+      <workItem from="1607662236214" duration="1529000" />
+      <workItem from="1610091605500" duration="621000" />
+      <workItem from="1615123139570" duration="774000" />
+      <workItem from="1615705423413" duration="13852000" />
+      <workItem from="1616478748133" duration="5820000" />
+      <workItem from="1617336095457" duration="2856000" />
+      <workItem from="1617340877743" duration="16794000" />
+      <workItem from="1617371881111" duration="4452000" />
+      <workItem from="1618385692781" duration="5824000" />
+      <workItem from="1618556823513" duration="16817000" />
+      <workItem from="1620371171716" duration="1039000" />
+      <workItem from="1620620782124" duration="621000" />
+      <workItem from="1620810750255" duration="738000" />
+      <workItem from="1620811524234" duration="11621000" />
+      <workItem from="1621054649599" duration="9553000" />
+      <workItem from="1621477181496" duration="646000" />
+      <workItem from="1621574488383" duration="7061000" />
+      <workItem from="1621584885265" duration="4513000" />
+      <workItem from="1622610914360" duration="21966000" />
+      <workItem from="1622701395096" duration="38254000" />
+      <workItem from="1623120644164" duration="600000" />
+      <workItem from="1623129138160" duration="600000" />
+      <workItem from="1623415869822" duration="658000" />
+      <workItem from="1623823130357" duration="1176000" />
+      <workItem from="1623824802433" duration="346000" />
+      <workItem from="1623825473871" duration="44026000" />
+      <workItem from="1624194184439" duration="2077000" />
+      <workItem from="1624249779044" duration="1629000" />
+      <workItem from="1624424667253" duration="2595000" />
+      <workItem from="1625038426090" duration="46000" />
+      <workItem from="1625140263645" duration="1262000" />
+      <workItem from="1625198128571" duration="2711000" />
+      <workItem from="1625202979420" duration="415000" />
+      <workItem from="1625646369120" duration="2703000" />
+      <workItem from="1626408530929" duration="15983000" />
+      <workItem from="1626576431329" duration="45208000" />
+      <workItem from="1626696538875" duration="5773000" />
+      <workItem from="1627816240684" duration="6626000" />
+      <workItem from="1627822921790" duration="13000" />
+      <workItem from="1627822976185" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/joblib/parallel.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Include/everyHidden.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Include/everyHidden.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Include/test/loadtxt_test.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/FCNN/layer_f5.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/FCNN/layer_f5.py</url>
+          <line>150</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Include/everyHidden.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Include/t_sne.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Include/t_sne.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Include/test/tsvTotxt.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Include/test/jsontest.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Include/test/listsave.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Include/entirety.py</url>
+          <line>314</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Include/test_draw.py</url>
+          <line>284</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Include/best_individual.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="program[0]" />
+        <watch expression="apply_stack" />
+        <watch expression="terminals" />
+        <watch expression="self._program[0]" />
+        <watch expression="y_true" />
+        <watch expression="i" />
+        <watch expression="x_train" />
+        <watch expression="best_individual" />
+        <watch expression="best_individual" />
+        <watch expression="self.fitset" />
+        <watch expression="self._fitness" />
+        <watch expression="filename" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sjl$t_sne.coverage" NAME="t_sne Coverage Results" MODIFIED="1621067593441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/sjl$everyHidden.coverage" NAME="everyHidden Coverage Results" MODIFIED="1621587339990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/sjl$1027_ESLlayer.coverage" NAME="1027_ESLlayer Coverage Results" MODIFIED="1623824857689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/FCNN" />
+    <SUITE FILE_PATH="coverage/sjl$layer.coverage" NAME="layer Coverage Results" MODIFIED="1623826842805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/sjl$linearregression.coverage" NAME="linearregression Coverage Results" MODIFIED="1594876903569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/sjl$smallK.coverage" NAME="smallK Coverage Results" MODIFIED="1626585655971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/test" />
+    <SUITE FILE_PATH="coverage/sjl$test_draw.coverage" NAME="test_draw Coverage Results" MODIFIED="1627820111858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/sjl$entirety.coverage" NAME="entirety Coverage Results" MODIFIED="1627820122431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/sjl$layer1.coverage" NAME="layer1 Coverage Results" MODIFIED="1581485006956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/sjl$stringAdd.coverage" NAME="stringAdd Coverage Results" MODIFIED="1622641119224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/test" />
+    <SUITE FILE_PATH="coverage/sjl$layerf3.coverage" NAME="layerf3 Coverage Results" MODIFIED="1623938265406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/FCNN" />
+    <SUITE FILE_PATH="coverage/sjl$test.coverage" NAME="test Coverage Results" MODIFIED="1594988431198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/sjl$loadtxt_test.coverage" NAME="loadtxt_test Coverage Results" MODIFIED="1621584928201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/sjl$jsontest.coverage" NAME="jsontest Coverage Results" MODIFIED="1626592108495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/test" />
+    <SUITE FILE_PATH="coverage/sjl$best_individual.coverage" NAME="best_individual Coverage Results" MODIFIED="1627822021866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/sjl$listsave.coverage" NAME="listsave Coverage Results" MODIFIED="1626684432261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/test" />
+    <SUITE FILE_PATH="coverage/sjl$MatlabData.coverage" NAME="MatlabData Coverage Results" MODIFIED="1617359275193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/sjl$genetic.coverage" NAME="genetic Coverage Results" MODIFIED="1626585707453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/gplearn" />
+    <SUITE FILE_PATH="coverage/sjl$csvTotxt.coverage" NAME="csvTotxt Coverage Results" MODIFIED="1621577861242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/sjl$draw.coverage" NAME="draw Coverage Results" MODIFIED="1621584659524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/sjl$fprinttest.coverage" NAME="fprinttest Coverage Results" MODIFIED="1626600901878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/test" />
+    <SUITE FILE_PATH="coverage/sjl$layer_f5.coverage" NAME="layer_f5 Coverage Results" MODIFIED="1622712535605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/FCNN" />
+  </component>
+</project>
